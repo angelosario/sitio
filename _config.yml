@@ -16,8 +16,8 @@
 title: Sitio
 email: angelosario@gmail.com
 description: sitio de práctica
-baseurl: "/index" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: angeldelpalo
 github_username:  angelosario
 
