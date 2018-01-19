@@ -11,18 +11,3 @@ Otras sorpresas le están reservadas a quien tenga la paciencia -pronto retornad
 Habréis, quizá leído en las «Soirés de Saint Petersbourg», de José de Maistre, que las enfermedades no tienen, como vulgarmente se cree, causas materiales, sino que son consecuencias del pecado. Esta idea os habrá hecho quizá admirar una vez más la originalidad del gran apologista savoyardo, y la volvemos a encontrar, no sé si tomada de él o inventada de nuevo en la obra más célebre de uno de los más famosos escritores de la Inglaterra moderna, en el «Erewhon», de Samuel Butler, quien la exageró para la ficción de su sátira. Más si abrís la Ciudad de Dios encontrareís, en el capítulo XXII, que también las enfermedades, además de las otras desventuras del hombre, son una de las formas del castigo que nos está debido por el pecado.
 Pero hay algo más. Buscad, por ejemplo el capítulo XXVI, y leed: «Existimos, sabemos que existimos y amamos a nuestro ser y nuestro conocer. En estas tres cosas... no nos turba ninguna semejanza de falsedad, ya que no son como las que existen fuera de nosotros y que tocamos con algún sentido del cuerpo; pero sin ninguna imagen falaz de fantasías o de fantasmas, es para mí cosa certísima que existo, que conozco mi ser y le amo. Ante estas verdades, no tengo temor alguno de los argumentos de los académicos que dicen: «¿Y si te engañas?». Pero si me engañan es que existo. Porque quien no existe no puede ser ni siquiera engañado y, por consiguiente, si soy engañado, existo. Y puesto que soy yo quien me engaño, ¿cómo puedo engañarme de que exista cuando es cierto que existo si me engaño?».  ¿Quién no ha reconocido aquí, más de doce siglos antes, el famoso y conocido «cogito ergo sum», de Descartes? El punto de partida de aquella diabólica filosofía moderna, que poco a poco ha reabsorbido al ser en el pensamiento y a Dios en el hombre, no es cosa sino un hurto en la obra de San Agustín que, como todos los hurtos mal invertidos, ha perjudicado a los ladrones y a sus clientes. Agustín es también idealista, pero no del idealismo nacido después de Descartes y de Kant, que deifica al hombre y reduce al universo a un acto del pensamiento humano. También, para él, conocer y ser son una misma cosa, pero no en el hombre, si no en Dios: «Et nulla natura est, nisi quia nosti eam». Ninguna cosa existe sino en cuanto, ¡oh Dios!, la conoces.
 Donde quiera que se examine el pensamiento agustino, es teocéntrico. Hasta la historia humana, que parecía guiada por el azar, por los climas, por las pasiones del hombre, por sus necesidades, se revela, como lo demuestra Agustín, enquiciada sobre la aceptación o sobre la repudiación de Dios. Y las vicisitudes humanas, que nos parecen las más importantes del universo, y de las que intensamente nos jactamos, no son mas que episodio breve y sangriento que se intercala entre la creación de la luz en el principio de los tiempos y la creación del nuevo cielo de los resucitados.
-
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
